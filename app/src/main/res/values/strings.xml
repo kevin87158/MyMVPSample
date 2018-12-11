@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMVPSample</string>
+    <string name="mvp_sample_text">This is my MVP sample</string>
+</resources>
